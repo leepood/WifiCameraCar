@@ -1,4 +1,1 @@
-WifiCameraCar
-=============
-
-A simple controller server runing on Rasspberry Pi which providers camera transfer
+WifiCameraCar=============A simple controller server runing on Rasspberry Pi which providers camera transfer### Requirements* opencv* libjpeg* wiringPi### How to	make clean && make### Email		leepood#gmail.com
